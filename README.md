@@ -236,7 +236,7 @@ Technical Support • IT Support • Security Operations
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bvivek2148&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bvivek2148&theme=default&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=bvivek2148&theme=default)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bvivek2148&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
